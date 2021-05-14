@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Device overview](./Assets/Pictures/Proposed_robot.png)
+![Device overview](./Proposed_robot.png)
 This is a mixed-reality enhanced teleoperation system that ensures human-in-the-loop operation while conducting path planning surgeries and other robotics applications.
 
 
